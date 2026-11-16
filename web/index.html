@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search a curated index of radio device authorizations and public FCC exhibits.">
+  <title>Gear Autopsy · CoolCode</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <header><nav><a href="https://coolcode.ca/"><strong>&gt;_</strong> CoolCode.ca</a><a href="https://github.com/jsdyer/gearautopsy">Source ↗</a></nav></header>
+  <main>
+    <section class="hero" aria-labelledby="title">
+      <h1 id="title">Gear <span>Autopsy</span></h1>
+      <p>Unlock the filing cabinet behind familiar hardware. Search selected FCC IDs and follow the original internal photos, manuals and radio tests.</p>
+      <p class="source" id="source-date">Curated public filing index</p>
+    </section>
+    <fieldset class="controls" id="controls" disabled>
+      <label>Search devices<input id="query" type="search" placeholder="Try AirTag, Switch or 2ABCB-RPI5"></label>
+      <div class="filters">
+        <label>Device type<select id="category"><option value="">All categories</option></select></label>
+        <label>Exhibit type<select id="type"><option value="">Any exhibit type</option><option>Internal photos</option><option>External photos</option><option>Test report</option><option>User manual</option></select></label>
+      </div>
+      <div class="actions"><button type="button" id="export" class="primary" disabled>Export linked exhibits</button><button type="button" id="reset">Reset</button></div>
+    </fieldset>
+    <p class="message" id="message" aria-live="polite">Loading device files…</p>
+    <div class="workspace">
+      <section class="panel" aria-labelledby="results-label">
+        <div class="panel-head"><h2 id="results-label">Devices</h2><span class="meta" id="count"></span></div>
+        <ul id="results" class="results"></ul>
+      </section>
+      <article class="panel detail" id="detail" aria-label="Device details" tabindex="-1"></article>
+    </div>
+    <p class="notice">Compare the FCC ID printed on a device or shown on its electronic label. Model variants and accessories may have separate IDs. Some exhibit files remain confidential, and availability can change.</p>
+  </main>
+  <footer>Equipment records courtesy of the <a href="https://www.fcc.gov/oet/ea/fccid">FCC Equipment Authorization System</a> and linked <a href="https://fccid.io/">FCC ID independent index</a>. The original exhibits are externally hosted. Gear Autopsy does not copy the files.</footer>
+</body>
+</html>

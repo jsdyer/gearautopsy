@@ -1,0 +1,726 @@
+{
+  "reviewed": "2026-11-16",
+  "devices": [
+    {
+      "id": "2ABCB-RPI0W",
+      "name": "Raspberry Pi Zero W",
+      "maker": "Raspberry Pi Trading",
+      "category": "Single-board computers",
+      "summary": "Early wireless Raspberry Pi Zero board.",
+      "date": "2017-02-28",
+      "deviceClass": "Single Board Computer",
+      "index": "https://fccid.io/2ABCB-RPI0W",
+      "exhibits": [
+        {
+          "id": "3296377",
+          "kind": "Internal photos",
+          "title": "Internal Photos",
+          "available": "2017-02-28",
+          "mirror": "https://fccid.io/2ABCB-RPI0W/Internal-Photos/Internal-Photos-3296377"
+        },
+        {
+          "id": "3296375",
+          "kind": "External photos",
+          "title": "External Photos",
+          "available": "2017-02-28",
+          "mirror": "https://fccid.io/2ABCB-RPI0W/External-Photos/External-Photos-3296375"
+        },
+        {
+          "id": "3296400",
+          "kind": "Test report",
+          "title": "Test Report 01",
+          "available": "2017-02-28",
+          "mirror": "https://fccid.io/2ABCB-RPI0W/Test-Report/Test-Report-01-3296400"
+        },
+        {
+          "id": "3296345",
+          "kind": "Test report",
+          "title": "Test Report 01",
+          "available": "2017-02-28",
+          "mirror": "https://fccid.io/2ABCB-RPI0W/Test-Report/Test-Report-01-3296345"
+        },
+        {
+          "id": "3296404",
+          "kind": "User manual",
+          "title": "User Manual",
+          "available": "2017-02-28",
+          "mirror": "https://fccid.io/2ABCB-RPI0W/User-Manual/User-Manual-3296404"
+        }
+      ]
+    },
+    {
+      "id": "2ABCB-RPI3BP",
+      "name": "Raspberry Pi 3 Model B+",
+      "maker": "Raspberry Pi Trading",
+      "category": "Single-board computers",
+      "summary": "Raspberry Pi 3 board with 2.4 GHz and 5 GHz wireless authorization exhibits.",
+      "date": "2018-03-14",
+      "deviceClass": "Single Board Computer",
+      "index": "https://fccid.io/2ABCB-RPI3BP",
+      "exhibits": [
+        {
+          "id": "3777902",
+          "kind": "Internal photos",
+          "title": "Internal Photos",
+          "available": "2018-03-14",
+          "mirror": "https://fccid.io/2ABCB-RPI3BP/Internal-Photos/Internal-Photos-3777902"
+        },
+        {
+          "id": "3777901",
+          "kind": "External photos",
+          "title": "External Photos",
+          "available": "2018-03-14",
+          "mirror": "https://fccid.io/2ABCB-RPI3BP/External-Photos/External-Photos-3777901"
+        },
+        {
+          "id": "3777894",
+          "kind": "Test report",
+          "title": "Test Report - 2.4GHz",
+          "available": "2018-03-14",
+          "mirror": "https://fccid.io/2ABCB-RPI3BP/Test-Report/Test-Report-2-4GHz-3777894"
+        },
+        {
+          "id": "3777909",
+          "kind": "Test report",
+          "title": "Test Report - BT",
+          "available": "2018-03-14",
+          "mirror": "https://fccid.io/2ABCB-RPI3BP/Test-Report/Test-Report-BT-3777909"
+        },
+        {
+          "id": "3777911",
+          "kind": "User manual",
+          "title": "Installation Guide",
+          "available": "2018-03-14",
+          "mirror": "https://fccid.io/2ABCB-RPI3BP/User-Manual/Installation-Guide-3777911"
+        }
+      ]
+    },
+    {
+      "id": "2ABCB-RPI4B",
+      "name": "Raspberry Pi 4 Model B",
+      "maker": "Raspberry Pi Trading",
+      "category": "Single-board computers",
+      "summary": "Four-core Raspberry Pi generation with public board photos and radio tests.",
+      "date": "2019-06-24",
+      "deviceClass": "Single Board Computer",
+      "index": "https://fccid.io/2ABCB-RPI4B",
+      "exhibits": [
+        {
+          "id": "4325659",
+          "kind": "Internal photos",
+          "title": "Internal Photos",
+          "available": "2019-06-24",
+          "mirror": "https://fccid.io/2ABCB-RPI4B/Internal-Photos/Internal-Photos-4325659"
+        },
+        {
+          "id": "4325657",
+          "kind": "External photos",
+          "title": "External Photos",
+          "available": "2019-06-24",
+          "mirror": "https://fccid.io/2ABCB-RPI4B/External-Photos/External-Photos-4325657"
+        },
+        {
+          "id": "4325534",
+          "kind": "Test report",
+          "title": "Test Report",
+          "available": "2019-06-24",
+          "mirror": "https://fccid.io/2ABCB-RPI4B/Test-Report/Test-Report-4325534"
+        },
+        {
+          "id": "4325608",
+          "kind": "Test report",
+          "title": "Test Report 1",
+          "available": "2019-06-24",
+          "mirror": "https://fccid.io/2ABCB-RPI4B/Test-Report/Test-Report-1-4325608"
+        },
+        {
+          "id": "4325666",
+          "kind": "User manual",
+          "title": "Installation Guide",
+          "available": "2019-06-24",
+          "mirror": "https://fccid.io/2ABCB-RPI4B/User-Manual/Installation-Guide-4325666"
+        },
+        {
+          "id": "4325536",
+          "kind": "User manual",
+          "title": "Integration Guide",
+          "available": "2019-06-24",
+          "mirror": "https://fccid.io/2ABCB-RPI4B/User-Manual/Integration-Guide-4325536"
+        }
+      ]
+    },
+    {
+      "id": "2ABCB-RPI5",
+      "name": "Raspberry Pi 5",
+      "maker": "Raspberry Pi Trading",
+      "category": "Single-board computers",
+      "summary": "Browse the board photographs and modular radio filings for this Raspberry Pi generation.",
+      "date": "2023-10-18",
+      "deviceClass": "Single board computer",
+      "index": "https://fccid.io/2ABCB-RPI5",
+      "exhibits": [
+        {
+          "id": "6862345",
+          "kind": "Internal photos",
+          "title": "Internal Photos",
+          "available": "2023-10-18",
+          "mirror": "https://fccid.io/2ABCB-RPI5/Internal-Photos/Internal-Photos-6862345"
+        },
+        {
+          "id": "6862344",
+          "kind": "External photos",
+          "title": "External Photos",
+          "available": "2023-10-18",
+          "mirror": "https://fccid.io/2ABCB-RPI5/External-Photos/External-Photos-6862344"
+        },
+        {
+          "id": "6862361",
+          "kind": "Test report",
+          "title": "Antenna Datasheet",
+          "available": "2023-10-18",
+          "mirror": "https://fccid.io/2ABCB-RPI5/Test-Report/Antenna-Datasheet-6862361"
+        },
+        {
+          "id": "6862360",
+          "kind": "Test report",
+          "title": "Test Report 15.207",
+          "available": "2023-10-18",
+          "mirror": "https://fccid.io/2ABCB-RPI5/Test-Report/Test-Report-15-207-6862360"
+        },
+        {
+          "id": "6862363",
+          "kind": "User manual",
+          "title": "Installation Guide",
+          "available": "2023-10-18",
+          "mirror": "https://fccid.io/2ABCB-RPI5/User-Manual/Installation-Guide-6862363"
+        },
+        {
+          "id": "6862364",
+          "kind": "User manual",
+          "title": "Safety and User Guide",
+          "available": "2023-10-18",
+          "mirror": "https://fccid.io/2ABCB-RPI5/User-Manual/Safety-and-User-Guide-6862364"
+        }
+      ]
+    },
+    {
+      "id": "2ABCB-PICO2W",
+      "name": "Raspberry Pi Pico 2 W",
+      "maker": "Raspberry Pi Trading",
+      "category": "Single-board computers",
+      "summary": "A wireless microcontroller board with antenna test material.",
+      "date": "2024-11-25",
+      "deviceClass": "Single Board Micro-Computer with WiFi, BT and BT LE",
+      "index": "https://fccid.io/2ABCB-PICO2W",
+      "exhibits": [
+        {
+          "id": "7843872",
+          "kind": "Internal photos",
+          "title": "Internal Photos",
+          "available": "2025-05-21",
+          "mirror": "https://fccid.io/2ABCB-PICO2W/Internal-Photos/Internal-Photos-7843872"
+        },
+        {
+          "id": "7843870",
+          "kind": "External photos",
+          "title": "External Photos",
+          "available": "2025-05-21",
+          "mirror": "https://fccid.io/2ABCB-PICO2W/External-Photos/External-Photos-7843870"
+        },
+        {
+          "id": "7843868",
+          "kind": "Test report",
+          "title": "ANT Test Report",
+          "available": "2024-11-25",
+          "mirror": "https://fccid.io/2ABCB-PICO2W/Test-Report/ANT-Test-Report-7843868"
+        },
+        {
+          "id": "7843831",
+          "kind": "Test report",
+          "title": "Test Report",
+          "available": "2024-11-25",
+          "mirror": "https://fccid.io/2ABCB-PICO2W/Test-Report/Test-Report-7843831"
+        },
+        {
+          "id": "7843875",
+          "kind": "User manual",
+          "title": "Users Manual",
+          "available": "2025-05-21",
+          "mirror": "https://fccid.io/2ABCB-PICO2W/User-Manual/Users-Manual-7843875"
+        }
+      ]
+    },
+    {
+      "id": "BCGA2187",
+      "name": "Apple AirTag (A2187)",
+      "maker": "Apple",
+      "category": "Finders and wearables",
+      "summary": "Tracking tag with distinctive circuit board and antenna exhibits.",
+      "date": "2021-04-20",
+      "deviceClass": "Tracking Tag",
+      "index": "https://fccid.io/BCGA2187",
+      "exhibits": [
+        {
+          "id": "5130978",
+          "kind": "Internal photos",
+          "title": "A2187_Internal_Photos_v1.0",
+          "available": "2021-10-17",
+          "mirror": "https://fccid.io/BCGA2187/Internal-Photos/A2187-Internal-Photos-v1-0-5130978"
+        },
+        {
+          "id": "5130977",
+          "kind": "External photos",
+          "title": "A2187_External",
+          "available": "2021-10-17",
+          "mirror": "https://fccid.io/BCGA2187/External-Photos/A2187-External-5130977"
+        },
+        {
+          "id": "5130965",
+          "kind": "Test report",
+          "title": "12791034-E1V2 FCC_IC BLE Report_Final",
+          "available": "2021-04-20",
+          "mirror": "https://fccid.io/BCGA2187/Test-Report/12791034-E1V2-FCC-IC-BLE-Report-Final-5130965"
+        },
+        {
+          "id": "5130980",
+          "kind": "Test report",
+          "title": "12791034-E2V3 FCC15.519 Final Report",
+          "available": "2021-04-20",
+          "mirror": "https://fccid.io/BCGA2187/Test-Report/12791034-E2V3-FCC15-519-Final-Report-5130980"
+        },
+        {
+          "id": "5189768",
+          "kind": "User manual",
+          "title": "A2187_SafetyHandling_v1.0",
+          "available": "2021-10-17",
+          "mirror": "https://fccid.io/BCGA2187/User-Manual/A2187-SafetyHandling-v1-0-5189768"
+        },
+        {
+          "id": "5189767",
+          "kind": "User manual",
+          "title": "A2187_Safety_Handling_v1.0_regulatory statements",
+          "available": "2021-10-17",
+          "mirror": "https://fccid.io/BCGA2187/User-Manual/A2187-Safety-Handling-v1-0-regulatory-statements-5189767"
+        }
+      ]
+    },
+    {
+      "id": "BCG-A2084",
+      "name": "AirPods Pro earbud (A2084)",
+      "maker": "Apple",
+      "category": "Finders and wearables",
+      "summary": "One earbud model. A charging case or a different earbud may have its own approval.",
+      "date": "2019-10-28",
+      "deviceClass": "Bluetooth Earbud",
+      "index": "https://fccid.io/BCG-A2084",
+      "exhibits": [
+        {
+          "id": "4475952",
+          "kind": "Internal photos",
+          "title": "Internal Photos",
+          "available": "2019-11-13",
+          "mirror": "https://fccid.io/BCG-A2084/Internal-Photos/Internal-Photos-4475952"
+        },
+        {
+          "id": "4475951",
+          "kind": "External photos",
+          "title": "External Photos",
+          "available": "2019-11-13",
+          "mirror": "https://fccid.io/BCG-A2084/External-Photos/External-Photos-4475951"
+        },
+        {
+          "id": "4475927",
+          "kind": "Test report",
+          "title": "12681939-E1V3 FCC IC BT_Final_Left",
+          "available": "2019-10-28",
+          "mirror": "https://fccid.io/BCG-A2084/Test-Report/12681939-E1V3-FCC-IC-BT-Final-Left-4475927"
+        },
+        {
+          "id": "4475948",
+          "kind": "Test report",
+          "title": "12681939-E2V2 FCC IC BLE_Final_Left",
+          "available": "2019-10-28",
+          "mirror": "https://fccid.io/BCG-A2084/Test-Report/12681939-E2V2-FCC-IC-BLE-Final-Left-4475948"
+        },
+        {
+          "id": "4475953",
+          "kind": "User manual",
+          "title": "Users Manual",
+          "available": "2019-11-13",
+          "mirror": "https://fccid.io/BCG-A2084/User-Manual/Users-Manual-4475953"
+        }
+      ]
+    },
+    {
+      "id": "BKEHAC001",
+      "name": "Nintendo Switch (HAC-001)",
+      "maker": "Nintendo",
+      "category": "Games and consoles",
+      "summary": "The original Switch console authorization. Check exhibit dates for later changes under the same FCC ID.",
+      "date": "2019-07-09",
+      "deviceClass": "Game Console",
+      "index": "https://fccid.io/BKEHAC001",
+      "exhibits": [
+        {
+          "id": "4350013",
+          "kind": "Internal photos",
+          "title": "04 Short-Term Confidential_Internal Photo",
+          "available": "2019-07-30",
+          "mirror": "https://fccid.io/BKEHAC001/Internal-Photos/04-Short-Term-Confidential-Internal-Photo-4350013"
+        },
+        {
+          "id": "3239291",
+          "kind": "Internal photos",
+          "title": "Internal photos",
+          "available": "2017-06-25",
+          "mirror": "https://fccid.io/BKEHAC001/Internal-Photos/Internal-photos-3239291"
+        },
+        {
+          "id": "3239290",
+          "kind": "External photos",
+          "title": "External photos",
+          "available": "2017-06-25",
+          "mirror": "https://fccid.io/BKEHAC001/External-Photos/External-photos-3239290"
+        },
+        {
+          "id": "4349945",
+          "kind": "Test report",
+          "title": "03 FCC Test Report_DSS",
+          "available": "2019-07-09",
+          "mirror": "https://fccid.io/BKEHAC001/Test-Report/03-FCC-Test-Report-DSS-4349945"
+        },
+        {
+          "id": "4349998",
+          "kind": "Test report",
+          "title": "03 FCC Test Report_DTS",
+          "available": "2019-07-09",
+          "mirror": "https://fccid.io/BKEHAC001/Test-Report/03-FCC-Test-Report-DTS-4349998"
+        },
+        {
+          "id": "3239293",
+          "kind": "User manual",
+          "title": "Users manual01",
+          "available": "2017-06-25",
+          "mirror": "https://fccid.io/BKEHAC001/User-Manual/Users-manual01-3239293"
+        },
+        {
+          "id": "3239298",
+          "kind": "User manual",
+          "title": "Users manual02",
+          "available": "2017-06-25",
+          "mirror": "https://fccid.io/BKEHAC001/User-Manual/Users-manual02-3239298"
+        }
+      ]
+    },
+    {
+      "id": "BKEHAC015",
+      "name": "Nintendo Joy-Con (HAC-015)",
+      "maker": "Nintendo",
+      "category": "Games and consoles",
+      "summary": "Separate approval for the HAC-015 wireless controller.",
+      "date": "2018-04-23",
+      "deviceClass": "Wireless Game Device",
+      "index": "https://fccid.io/BKEHAC015",
+      "exhibits": [
+        {
+          "id": "3826893",
+          "kind": "Internal photos",
+          "title": "04 Internal Photo",
+          "available": "2018-04-23",
+          "mirror": "https://fccid.io/BKEHAC015/Internal-Photos/04-Internal-Photo-3826893"
+        },
+        {
+          "id": "3234626",
+          "kind": "Internal photos",
+          "title": "(Short-Term Confidential) Internal Photo_HAC-015",
+          "available": "2017-06-19",
+          "mirror": "https://fccid.io/BKEHAC015/Internal-Photos/Short-Term-Confidential-Internal-Photo-HAC-015-3234626"
+        },
+        {
+          "id": "3234625",
+          "kind": "External photos",
+          "title": "(Short-Term Confidential) External Photo_HAC-015",
+          "available": "2017-06-19",
+          "mirror": "https://fccid.io/BKEHAC015/External-Photos/Short-Term-Confidential-External-Photo-HAC-015-3234625"
+        },
+        {
+          "id": "3826891",
+          "kind": "Test report",
+          "title": "03 FCC Test Report_DSS",
+          "available": "2018-04-23",
+          "mirror": "https://fccid.io/BKEHAC015/Test-Report/03-FCC-Test-Report-DSS-3826891"
+        },
+        {
+          "id": "3234612",
+          "kind": "Test report",
+          "title": "FCC Test Report_DSS",
+          "available": "2016-12-20",
+          "mirror": "https://fccid.io/BKEHAC015/Test-Report/FCC-Test-Report-DSS-3234612"
+        },
+        {
+          "id": "3234627",
+          "kind": "User manual",
+          "title": "(Short-Term Confidential) User Manual_HAC-015",
+          "available": "2017-06-19",
+          "mirror": "https://fccid.io/BKEHAC015/User-Manual/Short-Term-Confidential-User-Manual-HAC-015-3234627"
+        },
+        {
+          "id": "3234628",
+          "kind": "User manual",
+          "title": "(Short-Term Confidential) User Manual_Notice",
+          "available": "2017-06-19",
+          "mirror": "https://fccid.io/BKEHAC015/User-Manual/Short-Term-Confidential-User-Manual-Notice-3234628"
+        }
+      ]
+    },
+    {
+      "id": "BKEHDH001",
+      "name": "Nintendo Switch Lite (HDH-001)",
+      "maker": "Nintendo",
+      "category": "Games and consoles",
+      "summary": "Handheld Switch Lite console filing.",
+      "date": "2019-07-29",
+      "deviceClass": "Game Console",
+      "index": "https://fccid.io/BKEHDH001",
+      "exhibits": [
+        {
+          "id": "4376240",
+          "kind": "Internal photos",
+          "title": "04 Short-Term Confidential_Internal Photo",
+          "available": "2019-07-30",
+          "mirror": "https://fccid.io/BKEHDH001/Internal-Photos/04-Short-Term-Confidential-Internal-Photo-4376240"
+        },
+        {
+          "id": "4376239",
+          "kind": "External photos",
+          "title": "04 Short-Term Confidential_External Photo",
+          "available": "2019-07-30",
+          "mirror": "https://fccid.io/BKEHDH001/External-Photos/04-Short-Term-Confidential-External-Photo-4376239"
+        },
+        {
+          "id": "4376225",
+          "kind": "Test report",
+          "title": "03 FCC DFS Report",
+          "available": "2019-07-29",
+          "mirror": "https://fccid.io/BKEHDH001/Test-Report/03-FCC-DFS-Report-4376225"
+        },
+        {
+          "id": "4376124",
+          "kind": "Test report",
+          "title": "03 FCC Test Report_DSS",
+          "available": "2019-07-29",
+          "mirror": "https://fccid.io/BKEHDH001/Test-Report/03-FCC-Test-Report-DSS-4376124"
+        },
+        {
+          "id": "4376241",
+          "kind": "User manual",
+          "title": "05 Short-Term Confidential_User Manual_1",
+          "available": "2019-07-30",
+          "mirror": "https://fccid.io/BKEHDH001/User-Manual/05-Short-Term-Confidential-User-Manual-1-4376241"
+        },
+        {
+          "id": "4376242",
+          "kind": "User manual",
+          "title": "05 Short-Term Confidential_User Manual_2",
+          "available": "2019-07-30",
+          "mirror": "https://fccid.io/BKEHDH001/User-Manual/05-Short-Term-Confidential-User-Manual-2-4376242"
+        }
+      ]
+    },
+    {
+      "id": "BKEHEG001",
+      "name": "Nintendo Switch OLED model (HEG-001)",
+      "maker": "Nintendo",
+      "category": "Games and consoles",
+      "summary": "Switch OLED console exhibits. Accessories may carry separate IDs.",
+      "date": "2021-07-13",
+      "deviceClass": "Game Console",
+      "index": "https://fccid.io/BKEHEG001",
+      "exhibits": [
+        {
+          "id": "5337295",
+          "kind": "Internal photos",
+          "title": "04 Short-Term Confidential_Internal Photo",
+          "available": "2022-01-10",
+          "mirror": "https://fccid.io/BKEHEG001/Internal-Photos/04-Short-Term-Confidential-Internal-Photo-5337295"
+        },
+        {
+          "id": "5337294",
+          "kind": "External photos",
+          "title": "04 Short-Term Confidential_External Photo",
+          "available": "2022-01-10",
+          "mirror": "https://fccid.io/BKEHEG001/External-Photos/04-Short-Term-Confidential-External-Photo-5337294"
+        },
+        {
+          "id": "5337244",
+          "kind": "Test report",
+          "title": "03 FCC DFS Report",
+          "available": "2021-07-13",
+          "mirror": "https://fccid.io/BKEHEG001/Test-Report/03-FCC-DFS-Report-5337244"
+        },
+        {
+          "id": "5337285",
+          "kind": "Test report",
+          "title": "03 FCC Test Report_DSS",
+          "available": "2021-07-13",
+          "mirror": "https://fccid.io/BKEHEG001/Test-Report/03-FCC-Test-Report-DSS-5337285"
+        },
+        {
+          "id": "5337296",
+          "kind": "User manual",
+          "title": "05 Short-Term Confidential_User Manual_1",
+          "available": "2022-01-10",
+          "mirror": "https://fccid.io/BKEHEG001/User-Manual/05-Short-Term-Confidential-User-Manual-1-5337296"
+        },
+        {
+          "id": "5337297",
+          "kind": "User manual",
+          "title": "05 Short-Term Confidential_User Manual_2",
+          "available": "2022-01-10",
+          "mirror": "https://fccid.io/BKEHEG001/User-Manual/05-Short-Term-Confidential-User-Manual-2-5337297"
+        }
+      ]
+    },
+    {
+      "id": "A4RH2G2-42",
+      "name": "Google Chromecast (H2G2-42)",
+      "maker": "Google",
+      "category": "Streaming and mobile",
+      "summary": "First-generation HDMI streaming dongle.",
+      "date": "2013-05-17",
+      "deviceClass": "H840 Device",
+      "index": "https://fccid.io/A4RH2G2-42",
+      "exhibits": [
+        {
+          "id": "1967250",
+          "kind": "Internal photos",
+          "title": "Internal Photos",
+          "available": "2013-07-24",
+          "mirror": "https://fccid.io/A4RH2G2-42/Internal-Photos/Internal-Photos-1967250"
+        },
+        {
+          "id": "1967291",
+          "kind": "External photos",
+          "title": "External Photos",
+          "available": "2013-07-24",
+          "mirror": "https://fccid.io/A4RH2G2-42/External-Photos/External-Photos-1967291"
+        },
+        {
+          "id": "1967258",
+          "kind": "Test report",
+          "title": "Test Report",
+          "available": "2013-05-17",
+          "mirror": "https://fccid.io/A4RH2G2-42/Test-Report/Test-Report-1967258"
+        },
+        {
+          "id": "1967261",
+          "kind": "User manual",
+          "title": "User Manual",
+          "available": "2013-07-24",
+          "mirror": "https://fccid.io/A4RH2G2-42/User-Manual/User-Manual-1967261"
+        }
+      ]
+    },
+    {
+      "id": "A4RNC2-6A5",
+      "name": "Google Chromecast (NC2-6A5)",
+      "maker": "Google",
+      "category": "Streaming and mobile",
+      "summary": "Second-generation Chromecast with separate WLAN and Bluetooth exhibits.",
+      "date": "2015-09-09",
+      "deviceClass": "Multimedia Device with BLE, 2.4Ghz and 5GHz WLAN Radios",
+      "index": "https://fccid.io/A4RNC2-6A5",
+      "exhibits": [
+        {
+          "id": "2739421",
+          "kind": "Internal photos",
+          "title": "InternalPictures-A4RNC2-6A5.pdf",
+          "available": "2016-03-07",
+          "mirror": "https://fccid.io/A4RNC2-6A5/Internal-Photos/InternalPictures-A4RNC2-6A5-pdf-2739421"
+        },
+        {
+          "id": "2739420",
+          "kind": "External photos",
+          "title": "ExternalPictures-A4RNC2-6A5.pdf",
+          "available": "2016-03-07",
+          "mirror": "https://fccid.io/A4RNC2-6A5/External-Photos/ExternalPictures-A4RNC2-6A5-pdf-2739420"
+        },
+        {
+          "id": "2739368",
+          "kind": "Test report",
+          "title": "15U20917-E1 FCC_IC DTS WLAN Report Final 7-10-15_No Photos_Part1.pdf",
+          "available": "2015-09-09",
+          "mirror": "https://fccid.io/A4RNC2-6A5/Test-Report/15U20917-E1-FCC-IC-DTS-WLAN-Report-Final-7-10-15-No-Photos-Part1-pdf-2739368"
+        },
+        {
+          "id": "2739369",
+          "kind": "Test report",
+          "title": "15U20917-E1 FCC_IC DTS WLAN Report Final 7-10-15_No Photos_Part2.pdf",
+          "available": "2015-09-09",
+          "mirror": "https://fccid.io/A4RNC2-6A5/Test-Report/15U20917-E1-FCC-IC-DTS-WLAN-Report-Final-7-10-15-No-Photos-Part2-pdf-2739369"
+        },
+        {
+          "id": "2739422",
+          "kind": "User manual",
+          "title": "Manual_draft_A4RNC2-6A5_06_25_2015.pdf",
+          "available": "2016-03-07",
+          "mirror": "https://fccid.io/A4RNC2-6A5/User-Manual/Manual-draft-A4RNC2-6A5-06-25-2015-pdf-2739422"
+        }
+      ]
+    },
+    {
+      "id": "A3LSMS918B",
+      "name": "Samsung Galaxy S23 Ultra (SM-S918B)",
+      "maker": "Samsung",
+      "category": "Streaming and mobile",
+      "summary": "This regional model has radio test reports for multiple technologies. Its internal-photo listing has metadata only in the index.",
+      "date": "2022-11-29",
+      "deviceClass": "GSM/WCDMA/LTE/5G NR Phone + BT/BLE, DTS/UNII a/b/g/n/ac/ax, NFC, WPT and UWB",
+      "index": "https://fccid.io/A3LSMS918B",
+      "exhibits": [
+        {
+          "id": "6224853",
+          "kind": "Internal photos",
+          "title": "A3LSMS918B_Internal photo_1116",
+          "available": "2023-05-27",
+          "mirror": "https://fccid.io/A3LSMS918B/Internal-Photos/A3LSMS918B-Internal-photo-1116-6224853"
+        },
+        {
+          "id": "6218987",
+          "kind": "External photos",
+          "title": "A3LSMS918B_External photo",
+          "available": "2023-05-27",
+          "mirror": "https://fccid.io/A3LSMS918B/External-Photos/A3LSMS918B-External-photo-6218987"
+        },
+        {
+          "id": "6218758",
+          "kind": "Test report",
+          "title": "4790541052-E10V3 FCC Report UWB",
+          "available": "2022-11-29",
+          "mirror": "https://fccid.io/A3LSMS918B/Test-Report/4790541052-E10V3-FCC-Report-UWB-6218758"
+        },
+        {
+          "id": "6218659",
+          "kind": "Test report",
+          "title": "4790541052-E1V3 FCC Report Part 15B _CXX",
+          "available": "2022-11-29",
+          "mirror": "https://fccid.io/A3LSMS918B/Test-Report/4790541052-E1V3-FCC-Report-Part-15B-CXX-6218659"
+        },
+        {
+          "id": "6218989",
+          "kind": "User manual",
+          "title": "DM_UM_EU_TT_Eng_D01_221110",
+          "available": "2023-05-27",
+          "mirror": "https://fccid.io/A3LSMS918B/User-Manual/DM-UM-EU-TT-Eng-D01-221110-6218989"
+        },
+        {
+          "id": "6218990",
+          "kind": "User manual",
+          "title": "Safety_information_Rev.1.9.4_221107_Part1",
+          "available": "2023-05-27",
+          "mirror": "https://fccid.io/A3LSMS918B/User-Manual/Safety-information-Rev-1-9-4-221107-Part1-6218990"
+        }
+      ]
+    }
+  ]
+}
